@@ -6,7 +6,7 @@ A 3D printable Powerpole distribution box.
 
 The box consists out of two 3D printable parts `upper.stl` and `lower.stl`. The idea is based on the parametric break-out box designed by the [W5YM](https://www.thingiverse.com/thing:423657) team. The snap mechanism of the original version is replaced by two screws which are recessed in the two-piece housing. The parts `upper_solder.stl` and `lower_solder.stl` can be used for easier soldering of the Powerpole contacts.
 
-The model is made with Solid Edge 2021 in its Community Edition.
+The model (see `src/`) is made with Solid Edge 2021 in its Community Edition.
 
 
 ## BOM
